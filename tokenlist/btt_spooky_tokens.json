@@ -1,0 +1,167 @@
+{
+    "name": "SpookySwap BTT Default List",
+    "timestamp": "2023-07-06T16:17:26Z",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "patch": 3
+    },
+    "keywords": [
+      "spookyswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped BTT",
+        "symbol": "WBTT",
+        "address": "0x23181F21DEa5936e24163FFABa4Ea3B316B57f3C",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/WBTT.png"
+      },
+      {
+        "name": "Eth WBTC",
+        "symbol": "WBTC_e",
+        "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+        "chainId": 199,
+        "decimals": 8,
+        "logoURI": "https://assets.spooky.fi/tokens/wBTC.png"
+      },
+      {
+        "name": "TRON USDT",
+        "symbol": "USDT_t",
+        "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+        "chainId": 199,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/USDT.png"
+      },
+      {
+        "name": "ETH",
+        "symbol": "ETH",
+        "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/wETH.png"
+      },
+      {
+        "name": "ETH USDC",
+        "symbol": "USDC_e",
+        "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+        "chainId": 199,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/USDC.png"
+      },
+      {
+        "name": "Binance BNB",
+        "symbol": "BNB",
+        "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/BNB.png"
+      },
+      {
+        "name": "ETH LINK",
+        "symbol": "LINK_e",
+        "address": "0xfd3b093aB6bD4F40810f19e5fF822ac8Cc7e3184",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/LINK.png"
+      },
+      {
+        "name": "Binance ADA",
+        "symbol": "ADA_b",
+        "address": "0x43559B1786C06d6B826e3cf9AA667eD8840f9106",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/ADA.png"
+      },
+      {
+        "name": "Tron",
+        "symbol": "TRX",
+        "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+        "chainId": 199,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/TRX.png"
+      },
+      {
+        "name": "ETH Fantom",
+        "symbol": "FTM_e",
+        "address": "0xAD9A21FF0c9d854cA8C1360AF28D4fcbDaC53B4F",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/FTM.png"
+      },
+      {
+        "name": "Tron Just",
+        "symbol": "JST_t",
+        "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/JST.png"
+      },
+      {
+        "name": "Binance USDT",
+        "symbol": "USDT_b",
+        "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/USDT.png"
+      },
+      {
+        "name": "Intercrone",
+        "symbol": "ICR",
+        "address": "0x096C64d79A85C8FD2E963c4aBD9373301D2cf801",
+        "chainId": 199,
+        "decimals": 8,
+        "logoURI": "https://assets.spooky.fi/tokens/ICR.png"
+      },
+      {
+        "name": "ETH Sushiswap",
+        "symbol": "SUSHI_e",
+        "address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/SUSHI.png"
+      },
+      {
+        "name": "USD TRON",
+        "symbol": "USDD_t",
+        "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/USDD.png"
+      },
+      {
+        "name": "Binance USDC",
+        "symbol": "USDC_b",
+        "address": "0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/USDC.png"
+      },
+      {
+        "name": "Eth USDT",
+        "symbol": "USDT_e",
+        "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
+        "chainId": 199,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/USDT.png"
+      },
+      {
+        "name": "Tron SUN",
+        "symbol": "SUN_t",
+        "address": "0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/SUN.png"
+      },
+      {
+        "name": "Binance BUSD",
+        "symbol": "BUSD_b",
+        "address": "0xde47772Ac041A4Ccf3c865632131D1093e51C02d",
+        "chainId": 199,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/BUSD.png"
+      }
+    ]
+}

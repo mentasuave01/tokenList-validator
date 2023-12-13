@@ -1,0 +1,79 @@
+{
+    "name": "SpookySwap EON Default List",
+    "timestamp": "2023-07-06T16:17:26Z",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "patch": 3
+    },
+    "keywords": [
+      "spookyswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "WZEN",
+        "symbol": "WZEN",
+        "address": "0xF5cB8652a84329A2016A386206761f455bCEDab6",
+        "chainId": 7332,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/WZEN.png"
+      },
+      {
+        "name": "LayerZero WBTC",
+        "symbol": "lzWBTC",
+        "address": "0x1d7fb99AED3C365B4DEf061B7978CE5055Dfc1e7",
+        "chainId": 7332,
+        "decimals": 8,
+        "logoURI": "https://assets.spooky.fi/tokens/wBTC.png"
+      },
+      {
+        "name": "LayerZero ETH",
+        "symbol": "lzETH",
+        "address": "0x2c2E0B0c643aB9ad03adBe9140627A645E99E054",
+        "chainId": 7332,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/wETH.png"
+      },
+      {
+        "name": "LayerZero DAI",
+        "symbol": "lzDAI",
+        "address": "0x38C2a6953F86a7453622B1E7103b738239728754",
+        "chainId": 7332,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/DAI.png"
+      },
+      {
+        "name": "LayerZero USDC",
+        "symbol": "lzUSDC",
+        "address": "0xCc44eB064CD32AAfEEb2ebb2a47bE0B882383b53",
+        "chainId": 7332,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/USDC.png"
+      },
+      {
+        "name": "LayerZero LINK",
+        "symbol": "lzLINK",
+        "address": "0xDF8DBA35962Aa0fAD7ade0Df07501c54Ec7c4A89",
+        "chainId": 7332,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/LINK.png"
+      },
+      {
+        "name": "LayerZero USDT",
+        "symbol": "lzUSDT",
+        "address": "0xA167bcAb6791304EDa9B636C8beEC75b3D2829E6",
+        "chainId": 7332,
+        "decimals": 6,
+        "logoURI": "https://assets.spooky.fi/tokens/USDT.png"
+      },
+      {
+        "name": "LayerZero AVAX",
+        "symbol": "lzAVAX",
+        "address": "0x6318374DFb468113E06d3463ec5Ed0B6Ae0F0982",
+        "chainId": 7332,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/AVAX.png"
+      }
+    ]
+}
